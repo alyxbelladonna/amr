@@ -1,0 +1,10 @@
+Antibiotic	Resistance phenotype	Measurement sign	Measurement	Measurement units	Laboratory typing method	Laboratory typing platform	Vendor	Laboratory typing method version or reagent	Testing standard
+cefoxitin	resistant	<=	18	mm	disk diffusion				CLSI
+gentamicin	resistant	<=	12	mm	disk diffusion				CLSI
+penicillin	resistant	<=	16	mm	disk diffusion				CLSI
+tetracycline	susceptible	>=	24	mm	disk diffusion				CLSI
+enrofloxacin	susceptible	>=	32	mm	disk diffusion				CLSI
+erythromycin	susceptible	>=	26	mm	disk diffusion				CLSI
+linezolid	susceptible	>=	26	mm	disk diffusion				CLSI
+trimethoprim-sulfamethoxazole	susceptible	>=	26	mm	disk diffusion				CLSI
+chloramphenicol	susceptible	>=	20	mm	disk diffusion				CLSI
